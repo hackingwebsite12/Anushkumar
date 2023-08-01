@@ -1,4 +1,7 @@
 I am writing a code to improve kurnool
 int x,y,sub;
 scanf("%d",&x,&y)
-printf(sub=x-y);
+printf(sub=x-y);and also adding the multiplication 
+printf(mul=x*y)
+printf(div=x/y)
+printf(amb=x%y)
