@@ -1,0 +1,4 @@
+I am writing a code to improve kurnool
+int x,y,sub;
+scanf("%d",&x,&y)
+printf(sub=x-y);
