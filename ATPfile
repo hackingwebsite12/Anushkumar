@@ -2,4 +2,5 @@ int a;
 int b;
 int sum;
 sum = a+b;
-printf(sum);
+printf(sum)
+;
